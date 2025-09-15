@@ -89,6 +89,8 @@ pip install -r requirements.txt
 Ensure the `keras_model.h5` file (generated from the training notebook) is in the same directory as `app.py`.
 
 ```bash
+cd FlaskApp/
+#and then run either of bellow command
 flask run
 # Or
 python app.py
