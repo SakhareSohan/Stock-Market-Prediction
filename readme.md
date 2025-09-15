@@ -1,10 +1,9 @@
 # Stock Price Prediction with LSTM & Flask
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Framework](https.img.shields.io/badge/Framework-Flask-black.svg)
+![Framework](https://img.shields.io/badge/Framework-Flask-black.svg)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20Keras-orange.svg)
-![Libraries](https.img.shields.io/badge/Libraries-Pandas%20%7C%20yfinance%20%7C%20Matplotlib-green.svg)
-
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20yfinance%20%7C%20Matplotlib-green.svg)
 
 This project is a comprehensive web application that demonstrates the use of a Long Short-Term Memory (LSTM) neural network to forecast stock prices. Built with Flask, the application provides an interactive interface for users to analyze historical stock data and view model-based predictions.
 
